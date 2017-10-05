@@ -1,3 +1,98 @@
 <resources>
-    <string name="app_name">Glat1</string>
+    <string name="app_name">Resep Makananan Khas Indonesia</string>
+
+    <string-array name="judul_resep">
+        <item>Sate</item>
+        <item>Rendang</item>
+        <item>Soto Betawi</item>
+        <item>Ayam Betutu</item>
+        <item>Lumpia</item>
+        <item>Pempek</item>
+    </string-array>
+
+    <string-array name="deskrip_resep">
+        <item>Sate Khas Madura Jatim\n\n
+            Bahan yang Dibutuhkan :\n
+        250 gram daging sapi has luar\n2 sendok makan minyak goreng\n2 lembar daun pepaya, remas-remas\n3 sendok makan kecap manis\n
+              10 buah tusuk sate\n 5 butir bawang merah\n3 siung bawang putih\n3/4 sendok teh ketumbar\n1/2 sendok teh jintan\n1 sendok teh garam\n
+            \nLangkah Memasak :\n
+            1. Cara pertama yang bisa anda lakukan untuk memulai langkah pada resep kali ini adalah dengan terlebih dahulu memotong-motong daging sapi yang sudah anda siapkan dengan bentuk potongan sate yang khas yakni bentuk dadu. Untuk ukuran potongan, sebaiknya jangan memotong daging dengan ukuran terlalu besar, sebab hal ini akan membuat daging yang dimasak atau dibakar menjadi sulit matang secara merata.
+\n2. Setelah selesai dipotong-potong, sekarang tempatkan daging pada wadah dan sisihkan sementara. Kita tidak akan mencuci daging dengan menggunakan air, hal ini difungsikan agar daging yang dibakar nanti menjadi lebih empuk dan tidak ada kandungan air pada daging yang membuat rasa gurihnya pudar.
+\n3. Bungkus daging sapi dengan menggunakan daun pepaya yang sudah diremas-remas, selama kurang lebih 30 menit agar ketika dibakar daging menjadi lebih empuk dan lezat.
+\n4. Sisihkan daging dalam wadah dan biarkan, sementara itu kita akan buat bumbunya.
+bumbu\n
+5. Silahkan haluskan bumbu yang harus dihaluskan, baik menggunakan ulekan ataupun menggunakan mesin penghalus agar lebih mudah.\n
+6. Setelah selesai menghaluskan semua bumbu, sekarang campurkan kecap manis dan minyak goreng kedalam bumbu yang dihalsukan. Dan aduk-aduk hingga bumbu tercampur rata.
+\n7. Setelah daging didiamkan selalam kurang lebih 30 mneit, sekarang ambil daging dan lumuri daging dengan bumbu ini, pastikan jika semua bagian daging terlumuri dengan baik.
+\n8. Sebelum dibakar, diamkan terlebih dahulu daging agar bumbunya meresap kedalam hingga keseluruhan selama kurang lebih 1 jam.
+\n9. Ambil tusukan sate, dan tusuk-tusuk sate dengan menggunakan tusukan sate. Kemudian bakar diatas api higga matang secara merata.
+        </item>
+        <item>Rendang Sapi Khas Padang\n\n
+            Bahan Yang Dibutuhkan :\n
+        daging sapi lulur 500 gram, potong melebar kurang lebih 12 bagian\ndaun kunyit 2 lembar\ndaun jeruk 2 lembar\nserai 2 batang, memarkan\n
+pekak 1 buah\nkelapa parut sangrai 2 sendok makan\nsantan 1000-1500 ml dari 2 butir kelapa\nminyak goreng 2 sendok makan\nbawang merah 10 butir\nbawang putih 6 siung\ncabai merah 150 gram\n
+cabai rawit sesuai selera\nkemiri 5 butir\njinten 1/2 sendok teh\nketumbar 1 sendok teh\nkunyit 1/2 cm\njahe 1 cm
+        \n\n
+        Langkah Memasak :\n
+        1. Panaskan minyak, tumis bumbu halus, daun kunyit, daun jeruk, serai dan pekak hingga harum.\n
+2. Masukkan daging, aduk hingga berubah warna.\n
+3. Tuang santan dan tambahkan kelapa parut sangrai, masak di atas api sedang sambil diaduk perlahan hingga mendidih.\n
+4. Kecilkan api, masak hingga daging matang, berminyak dan kecoklatan.\n
+5. Angkat dan sajikan.\n</item>
+        <item>Soto Betawi Khas Jakarta\n\n
+            Bahan yang Dibutuhkan :\n
+        500g jerohan (usus, paru, dan babat)\n
+500g daging sapi skengkel (paha atas)\n
+2 buah kentang, dikupas, dibelah 4 bagian, dan digoreng\n2 batang serai, dimemarkan\n3 lembar daun salam\n
+3 lembar daun jeruk\n1½ liter santan sedang kentalnya\n2 sdm air jeruk limo\n2 sdm bawang goreng\n
+1 batang daun bawang diiris halus\n1 buah tomat dipotong 8 bagian\n1 sdm daun sledri dirajang halus\n
+1 batang kayu manis\n1 sdt garam\n\n
+        Langkah Memasak :\n
+        1. Bersihkan jerohan, kemudian rebus hingga ¾ empuk. Angkat dan sisihkan.\n
+2. Rebus santan hingga mendidih dengan api kecil. Masukkan jeroan dan daging. Rebus kembali hingga keduanya matang.\n
+3. Tumis bumbu yang dihaluskan hingga harum dan matang. Masukkan serai, daun salam, daun jeruk, dan kayu manis. Setelah bumbu benar-benar harum dan matang, masukkan jeroan, daging, garam, dan gula ke dalam rebusan.
+\n4. Angkat jeroan dan daging. Potong-potong sesuai selera, lalu goreng. Sisihkan.\n</item>
+        <item>Ayam Betutu Khas Bali.\n\n
+                 Bahan Yang Dibutuhkan :\n
+            100 gram tepung terigu.\n50 gram tepung beras.\n1 butir telur ayam, kocok lepas.\n
+½ sdt garam.\n400 ml air bersih.\n3 siung bawang putih.\nGaram, gula, dan lada secukupnya.\n2 buah wortel, parut halus/potong tipis-tipis memanjang.\n
+Kubis (kol) secukupnya.\nUdang secukupnya, potong kecil-kecil dagingnya.\n200 gram rebung, potong memanjang tipis-tipis.\n\n
+            Langkah Memasak :\n
+     1. Kulit: Campur bahan-bahan kulit, kecuali air bersih. Jika sudah merata, tuangkan air sedikit demi sedikit supaya adonan tidak bergerindil. Jika sudah siapkan Teflon yang sudah diolesi dengan minyak. Tuangkan adonan 1 ½ sendok sayur. Lakukan sampai adonan habis. Sisihkan.
+\n2. Setelah itu, rebus semua bahan isi setengah matang. Tiriskan.\n
+3. Kemudian, siapkan wajan dengan minyak secukupnya untuk menumis bumbu yang dihaluskan dan bahan isi yang telah direbus. Sisihkan.\n
+4. Ambil 1 lembar kulit, beri 2 sdm isian Lumpia. Lipat bagian tepi-tepinya dan gulung. Sisihkan. Ulangi sampai kulit dan habis.\n
+5. Terakhir, goreng sampai emas kecoklatan dengan api sedang supaya kulit renyah.\n
+6. Sajikan lumpia dengan saus atau cabai.\n
+        </item>
+        <item>Lumpia Khas Semarang..\n\n
+        Bahan Yang Dibutuhkan : \n
+        Ayam kampung utuh 1 ekor ( atau 1 1/2 kilo gram )\nSerai 2 batang ( ambil bagian putihnya , lalu memarkan )\n
+Daun salam 2 lembar\nDaun pisang secukupnya ( digunakan untuk membungkus )\nAluminium foil\nMinyak 80 mili liter ( digunakan untuk menumis )\n
+Cabai merah 15 buah ( dibuang bijinya )\nJahe 4 centi meter\nKunyit 4 centi meter ( dibakar )\nLengkuas 4 centi meter\n
+Serai 2 batang ( ambil bagian putihnya saja )\nBawang merah 100 gram\nBawang putih 6 siung\n\n
+        Langkah Memasak : \n
+     1. pertama-tama panaskan minyak goreng , tumis bumbu halus hingga harum dan matang.\n
+2. Selanjutnya lumuri ayam dengan bumbu hingga terbalur rata , diamkan semalaman agar bumbu meresap.\n
+3. Setelah itu tambahkan serai dan daun salam , bungkus dengan dau pisang , lalu bungkus kembali dengan aluminium foil.\n
+4. Kukus ayam ke dalam dandang panas selama 2 jam . angkat .\n
+5. Terakhir panggang ayam dalam oven bersuhu 185 derajat celcius selama 20 menit atau sampai matang . angkat .\n
+6. Resep Ayam Betutu Bali Asli Lezat siap untuk disajikan dengan bahan pelengkap\n   </item>
+        <item>Pempek Khas Palembang.\n\n
+        Bahan Yang Dibutuhkan :\n
+        Ikan tenggiri segar 500 gram.\nTepung sagu tani 500 gram\nTelur 2 butir\nGaram dapur satu setengah sendok teh\nAir bersih 250 gram. gunakan air es\n
+Penyedap rasa atau vetsin 1 sendok teh\nSetengah kilo gula aren.\nAsam jawa 50 gram , peras dengan menggunakan sedikit air.\n
+Cuka putih 5 sendok teh.\nAir bersih 5 gelas.\n\n
+        Langkah Memasak :\n
+        1. Didihkan air bersama dengan gula merah, asam jawa, air, dan cuka menggunakan api kecil. Dan setelah gula larut, angkat kemudian saring.
+\n2. Masukkan bumbu cuka yang sudah dihaluskan. Kemudian masukkan cabe, garam sebaik nya sambil di cicipi dan disesuaikan dengan selera anda.
+3. Setelah mendidih dan rasanya enak, angkat kemudian saring\n
+4. Langkah pertama untuk membuat pempek adalah membuat adonan pempek sebelum membuat cuka, siapkan semua bahan yang disebutkan diatas.\n
+5. Haluskan daging tenggiri, setelah halus campurkan dengan telur, garam, dan vetsin. Aduk aduk hingga rata.\n
+6. Kemudian tuang air dingin sedikit demi sedikit hingga tercampur semua, sambil di aduk aduk hingga merata.\n
+7. Lalu tambahkan tepung sagu sambil diuleni hingga rata dan kalis\n
+8. Setelah kalis, bentuk adonan pempek sesuai jenis pempek yang anda inginkan\n
+9. Setelah adonan sudah terbentuk, kemudian rebus dengan menggunakan air yang banyak hingga mengapung dan tiriskan.\n
+10. Lalu goreng pempek dahulu sebentar sebelum dihidangkan dengan kuah cuka. </item>
+    </string-array>
 </resources>
